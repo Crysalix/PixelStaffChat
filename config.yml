@@ -1,0 +1,3 @@
+# Support color code !
+# Don't forget {DISPLAYNAME} ! ;)
+chatFormat: "&f[&bStaff-Only&f] <&c{DISPLAYNAME}&f>"
