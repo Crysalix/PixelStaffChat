@@ -23,8 +23,10 @@ public class Main extends Plugin {
 		try
 		{
 			this.chatFormat = configurationLoader.getConfiguration().getString("chatFormat");
-		} catch (Exception e) {
-		e.printStackTrace();
+		} 
+		catch (Exception e)
+		{
+			e.printStackTrace();
 		}
 	}
 
